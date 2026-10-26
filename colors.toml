@@ -1,0 +1,31 @@
+# London: wet slate, Thames blue, Portland stone and warm street lamps.
+mode = "dark"
+accent = "#d4b477"
+selection = "#354957"
+muted = "#687b88"
+
+background = "#18232d"
+dark_background = "#121b24"
+darker_background = "#0d141c"
+lighter_background = "#263541"
+
+foreground = "#dedbd2"
+dark_foreground = "#91a0a9"
+light_foreground = "#c1c8c9"
+bright_foreground = "#f3eee3"
+
+red = "#df7776"
+yellow = "#d4b477"
+orange = "#d99c72"
+green = "#99b391"
+cyan = "#8dbbbb"
+blue = "#8eafc7"
+magenta = "#b6a0bd"
+brown = "#a58a72"
+
+bright_red = "#f0938d"
+bright_yellow = "#e8cb91"
+bright_green = "#b5cba5"
+bright_cyan = "#abd2cd"
+bright_blue = "#afcce0"
+bright_magenta = "#cfb9d4"
