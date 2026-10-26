@@ -1,6 +1,6 @@
 # Artwork provenance
 
-Architectural pen-and-pencil edition (2.0.0).
+Architectural pen-and-pencil edition (2.0.1).
 Author and maintainer: Shas Veeramani (GitHub: clear-built-dev).
 
 The active wallpapers are exactly 6144 × 3456 pixels:

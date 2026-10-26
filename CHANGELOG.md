@@ -1,5 +1,9 @@
 # Changes
 
+## 2.0.1
+
+- Align lamp illumination to the drawn glass panes; remove detached highlights.
+
 ## 2.0.0
 
 - Full scene width and extended sky adapt animated wallpapers to 16:10 laptop displays.
