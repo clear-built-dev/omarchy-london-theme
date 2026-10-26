@@ -1,12 +1,13 @@
 # Changes
 
-## 2.0.0 — local vector edition
+## 2.0.0
 
-- All three backgrounds are native 6144 × 3456 exports from editable SVG.
-- Buckingham Palace and Windsor Castle now match London's geometric style.
-- The earlier pencil illustrations are retained in development archives/history.
-- Pairs with London Motion 2.0.0 for time-of-day lighting and optional live weather.
+- Exactly three 6144 × 3456 backgrounds: London, Buckingham Palace and Windsor Castle.
+- Sharp architectural pen-and-pencil palace and castle artwork, with drawn trees and clouds.
+- London is a native SVG export; sketches are upscaled from 1672 × 941 originals.
+- Current source artwork and provenance only; superseded images removed from the package.
+- Pairs with London Motion 2.0.0 for the slate-blue treatment, time of day and optional weather.
 
 ## 1.0.0
 
-Initial theme submission: London vector skyline and palace/castle pencil sketches.
+Initial submission: London skyline and earlier palace/castle pencil sketches.
