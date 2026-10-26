@@ -23,9 +23,9 @@ All three wallpapers are **6144 × 3456 (6K)**. London is rendered from SVG. The
 
 Install the separate [London Motion plugin](https://github.com/clear-built-dev/omarchy-london-motion)
 for a moving bus, rotating London Eye, local-time Big Ben clock, waving flags, time-of-day lighting, and optional live weather.
-The plugin applies a slate-blue atmospheric palette to the palace and castle
-drawings, matching the London skyline. Installing this theme alone displays
-still wallpapers, with the sketches in their original light-paper tones. The marketplace does
+The saved wallpapers already use the slate-blue atmospheric palette, including
+in the wallpaper carousel and when the plugin is disabled. The plugin adds
+dynamic lighting, weather and motion using its own uncoloured render sources. The marketplace does
 not install bundled plugin code, so the animation is a separate, explicit step.
 
 ## Palette and font

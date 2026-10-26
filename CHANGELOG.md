@@ -2,6 +2,10 @@
 
 ## 2.0.0
 
+- Full scene width and extended sky adapt animated wallpapers to 16:10 laptop displays.
+
+- Slate-coloured static PNGs make the carousel and fallback match the animated design.
+
 - Exactly three 6144 × 3456 backgrounds: London, Buckingham Palace and Windsor Castle.
 - Sharp architectural pen-and-pencil palace and castle artwork, with drawn trees and clouds.
 - London is a native SVG export; sketches are upscaled from 1672 × 941 originals.
